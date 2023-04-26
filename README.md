@@ -6,12 +6,12 @@ Have excluded the code to collect the data from various sources to create the ne
 
 It supports 
 ------------
-Multi level networks
-Static placement of nodes
-Dynamic tooltip for nodes
-Node and edge color coding
-Edge labels
-Node labels
+Markup : * Multi level networks
+* Static placement of nodes
+* Dynamic tooltip for nodes
+* Node and edge color coding
+* Edge labels
+* Node labels
 
 Ideally all these should be dynamically generated for live deployment
 
