@@ -8,10 +8,12 @@ It supports
 ------------
 * Multi level networks
 * Static placement of nodes
-* Dynamic tooltip for nodes
-* Node and edge color coding
-* Edge labels
-* Node labels
+* Dynamic tooltip for nodes (for Node Health)
+* Node and Edge color coding (for Node / Edge Health)
+* Edge labels (for Edge Health/Stats)
+* Node labels 
+
+Todo:  Edge Tooltip (for Link Health)
 
 Ideally all these should be dynamically generated for live deployment
 
