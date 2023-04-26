@@ -9,8 +9,8 @@ It supports
 * Multi level networks
 * Static placement of nodes
 * Dynamic tooltip for nodes (for Node Health)
-* Node and Edge color coding (for Node / Edge Health)
-* Edge labels (for Edge Health/Stats)
+* Node and Edge color coding (for Node / Link Health)
+* Edge labels (for Link Health/Stats)
 * Node labels 
 
 Todo:  Edge Tooltip (for Link Health)
