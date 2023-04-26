@@ -6,7 +6,7 @@ Have excluded the code to collect the data from various sources to create the ne
 
 It supports 
 ------------
-Markup : * Multi level networks
+* Multi level networks
 * Static placement of nodes
 * Dynamic tooltip for nodes
 * Node and edge color coding
