@@ -1,7 +1,7 @@
 # DC-Path-Visualizer
 Visualizer for DC or any Network Topology
 
-Very basic python code to create Network topology using NetworkX, matplotlib, mplcursors
+Very basic python code to create Network topology using NetworkX, matplotlib, mplcursors.
 Have excluded the code to collect the data from various sources to create the network relationships
 
 It supports 
